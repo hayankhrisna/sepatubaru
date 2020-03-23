@@ -1,0 +1,64 @@
+#wrap {
+    width: 1000px;
+    margin: 0 auto;  
+  }
+  body {
+    background-image: url('nike.jpg');
+    background-size: 1400px 700px;
+}
+.bg-2 { 
+    background-color: #474e5d;
+    color: black;
+}
+.bg-3 { 
+    background-color: black;
+    color: #555555;
+}
+.bg-4 {     
+    background-color: black;
+    color: white;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 205px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+#footer {
+    height: 120px;
+    clear: both;
+    margin: 10px 0;
+    text-align: center;
+    background-color: black;
+    padding: 0px;
+    color: whitesmoke;
+    font-size : 15px;
+  }
+.log{
+    font-size : 100px;
+    margin-top: -60px;
+    margin-left: 30px;
+    text-shadow: 3px 5px 10px gold;
+    }
+.logo{
+    margin-top: -10px;
+    margin-left: 40px;
+    }
+.kolom{
+    font-size : 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-shadow: 3px 5px 10px gold;
+    }
+.regis{
+        font-size : 20px;
+        margin-top: -20px;
+        margin-left: 5px;
+}

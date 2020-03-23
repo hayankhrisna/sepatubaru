@@ -1,0 +1,10 @@
+body {
+    background-image: url('sepatu.jpg');
+    background-size: 1500px 700px;
+}
+#tabel{
+    background: lightpink;
+    margin-left : 50px;
+    width:600%;
+    
+}

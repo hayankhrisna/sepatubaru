@@ -1,0 +1,223 @@
+#wrap {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  body {
+    background-image: url('grond.jpg');
+    background-size: 1400px 1400px;
+}
+  .logo{
+    font-size : 70px;
+    margin-top: -130px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    text-shadow: 3px 5px 10px grey;
+    }
+#header {
+    width: 100%;
+    height: 47px;
+    background: #ADD8E6;
+    margin-bottom: 10px;
+    }
+#menu-utama{
+    margin-top: -50px;
+    list-style: none;
+}
+
+#menu-utama li{
+    float: left;
+    padding: 10px 20px;
+    border-right: 1px solid aqua;
+}
+
+#menu-utama li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+#header form {
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+#header form input {
+    border: none;
+    height: 20px;
+}
+#back{
+    margin-left: px;
+    text-align: left;
+    width:570px;
+    height:auto;
+    margin-left: 350px;
+ }
+
+#digital{
+    text-align: left;
+    font-size: 70px;
+    margin-left: 200px;
+    margin-top: -80px;
+    color: blue(255, 255, 255);
+}
+ /*#text{
+     text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-top: 120px;
+    margin-left: 90px;
+}*/
+
+#content {
+    padding: 20px;
+    background:#ADD8E6;
+    margin-bottom: 10px;
+  }
+
+#main-content {
+    width: 590px;
+    height: 390px;
+    float: left;
+    background: #E0FFFF;
+  }
+#main-content img{
+    padding: 20px;
+    width: 550px;
+    height: 350px;
+    float: left;
+    }
+
+#sidebar {
+    width: 250px;
+    height: 210px;
+    float: right;
+    background: #E0FFFF;
+    margin-top : 9px;
+  }
+
+#content {
+    
+    overflow: hidden;
+  }  #content {
+    
+    overflow: hidden;
+  }
+#content b{
+    color: #616060;
+    background: whitesmoke;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+#tabel{
+    margin-left : 250px;
+}
+#cari{
+    margin-left : 100px;
+}
+
+#footer {
+    width: 1000px;
+    height: 20px;
+    clear: both;
+    margin: 10px 0;
+    text-align: center;
+    background-color: black;
+    padding: 0px;
+    color: whitesmoke;
+    font-size : 15px;
+  }
+  /* #paragraf{
+      -webkit-column-count : 2;
+      -moz-column-count : 2:
+      column-count :
+  } */
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: "Gill Sans", "Gill Sans MT", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* #wrapper {
+    widows: 780;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #ddd;
+} */
+
+/* #header {
+    height: 100px;
+    widows: 100px;
+    padding: 50px;
+    margin: 20px 0;
+    overflow: hidden;
+    background: black;
+} */
+
+/* #menu-utama{
+    margin-top: 3px;
+    list-style: none;
+}
+
+#menu-utama li{
+    float: left;
+    padding: 20px 20px;
+    border-right: 1px solid aqua;
+}
+
+#menu-utama li a{
+    color: #ffff;
+    text-decoration: none;
+} */
+
+#daftar-artikel {
+    width: 470px;
+    float: left;
+    margin-left: 10px;
+}
+.artikel{
+    background: #ADD8E6;
+    width: 700px;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.artikel img {
+    float: left;
+    margin-right: 10px;
+    width: 150px;
+    height: 150px;
+}
+.artikel b{
+    color: black;
+    background: #ddd;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.artikel p{
+    margin: 10px 0;
+}
+.artikel a{
+    display: block;
+    text-align: right;
+    color: #ADD8E6;
+}
+/* #sidebar{
+    width: 500px;
+    float: right;
+    margin-top: -47%;
+} */
+/* #sidebar h2{
+    font-size: 18px;
+    margin: 10px 0;
+}
+#sidebar p{
+    line-height: 20px;
+    color: #636363;
+}
+#sidebar ul li a{
+    color: #636363;
+    text-decoration: none;
+}*/
